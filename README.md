@@ -5,7 +5,6 @@ Hi, I'm Harish Rajaram !
 
 🛠️ Tools & Technologies
 
-🔹 Databases: MySQL, PostgreSQL, MongoDB |
-🔹 DevOps: Docker, GitHub Actions
+🔹 Databases: MySQL, PostgreSQL, MongoDB |🔹 DevOps: Docker, GitHub Actions
 
 
