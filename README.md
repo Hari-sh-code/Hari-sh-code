@@ -1,10 +1,9 @@
 Hi, I'm Harish Rajaram !
 
-💻 Aspiring Data & DevOps |
-🔧 Python, SQL, Java, Linux, DevOps
+💻 Aspiring Data Engineering |
+🔧 Python, SQL, Java, Linux, Snowflake, DevOps
 
 🛠️ Tools & Technologies
 
-🔹 Databases: MySQL, PostgreSQL, MongoDB |🔹 DevOps: Docker, GitHub Actions
-
-
+🔹 Databases: MySQL, PostgreSQL, MongoDB
+🔹 DevOps: Docker, GitHub Actions
